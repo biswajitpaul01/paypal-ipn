@@ -1,0 +1,7 @@
+{
+    "name": "biswajitpaul01/paypal-ipn",
+    "description": "A simple paypal class",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
